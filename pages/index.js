@@ -14,7 +14,7 @@ function Index() {
   return (
     <main>
       <Head>
-        <title>Next.js + Node API</title>
+        <title>Lukas's Next.js + Node API</title>
       </Head>
       <h1>Next.js + Node.js API</h1>
       <h2>
